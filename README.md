@@ -14,6 +14,7 @@
      - Execute o seguinte script em Python para descobrir as coordenadas do botão de envio no 
        WhatsApp Web:
         ```bash
+        python
         import pyautogui
         print(pyautogui.position())
         ```
