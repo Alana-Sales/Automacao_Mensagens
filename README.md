@@ -24,6 +24,7 @@
    - As coordenadas X e Y do local onde o mouse está posicionado serão exibidas no terminal.
    - Substitua esses valores no comando pyautogui.click(x=500, y=800) no código principal pelo 
      X e Y obtidos.
+
      
 3. **Execução**
    - Para rodar o código, use o seguinte comando no terminal:
