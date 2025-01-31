@@ -33,10 +33,10 @@
 
 ❓ Dúvidas Frequentes
 1. Posso usar outro navegador?
-Não, o script foi desenvolvido para funcionar com o Google Chrome.
+  - Não, o script foi desenvolvido para funcionar com o Google Chrome.
 
 2. O script funciona no WhatsApp Desktop?
-Não, este script foi desenvolvido para o WhatsApp Web. Para o WhatsApp Desktop, seria necessário usar uma abordagem diferente (como automação de interface gráfica).
+  - Não, este script foi desenvolvido para o WhatsApp Web. Para o WhatsApp Desktop, seria necessário usar uma abordagem diferente (como automação de interface gráfica).
 
 3. Posso enviar imagens ou arquivos?
-Sim, mas isso requer modificações no script. Entre em contato com o desenvolvedor para mais detalhes.
+  - Sim, mas isso requer modificações no script. Entre em contato com o desenvolvedor para mais detalhes.
