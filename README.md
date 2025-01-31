@@ -19,11 +19,11 @@
         print(pyautogui.position())
         ```
    - Edite a variável mensagem no script para alterar o conteúdo da mensagem enviada:
-         ```bash
-        mensagem = """
-        Olá, esta é uma mensagem automática.
-        """
-        ```
+     ```bash
+     mensagem = """
+     Olá, esta é uma mensagem automática.
+     """
+     ```
 
 3. **Execução**
    - Para rodar o código, use o seguinte comando no terminal:
