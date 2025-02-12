@@ -39,4 +39,4 @@
   - Não, este script foi desenvolvido para o WhatsApp Web. Para o WhatsApp Desktop, seria necessário usar uma abordagem diferente (como automação de interface gráfica).
 
 3. Posso enviar imagens ou arquivos?
-  - Sim, mas isso requer modificações no script. Entre em contato com o desenvolvedor para mais detalhes.
+  - Não, isso requer modificações no script.
