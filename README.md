@@ -6,7 +6,7 @@
      ```
 
 2. **Configuração**
-   - Certifique-se de ter uma planilha `alunos.csv` no mesmo diretório do arquivo do código.
+   - Salve a planilha `numeros.csv` no mesmo diretório do arquivo do código.
    - O arquivo deve conter as colunas:
      - `Número de Telefone`: os números com DDD da cidade (ex.: (11) 91234-5678).
    - Obtenha as Coordenadas do Mouse:
