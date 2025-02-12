@@ -21,7 +21,7 @@
    - Edite a variável mensagem no script para alterar o conteúdo da mensagem enviada:
      ```bash
      mensagem = """
-     Olá, esta é uma mensagem automática.
+     Mensagem a ser enviada.
      """
      ```
 
