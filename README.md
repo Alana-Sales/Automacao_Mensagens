@@ -16,7 +16,7 @@
      - Cole e execute o seguinte script no interpretador:
         ```bash
         import pyautogui
-        print(pyautogui.position())
+        print (pyautogui.position())
         ```
    - Edite a variável mensagem no script para alterar o conteúdo da mensagem enviada:
      ```bash
