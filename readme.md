@@ -24,9 +24,7 @@ Telefone,Nome
 
 ## Scripts Disponíveis
 1️. mensagens_pyautogui.py <br/>
-```
-Envia mensagens com emojis usando pywhatkit e cliques automatizados com pyautogui.
-```
+```Envia mensagens com emojis usando pywhatkit e cliques automatizados com pyautogui.```
 
 - Suporta emojis
 - Congela o computador durante a execução
@@ -34,9 +32,7 @@ Envia mensagens com emojis usando pywhatkit e cliques automatizados com pyautogu
 - Recomendado apenas para pequenos envios
 
 2️. mensagens_selenium.py <br/>
-```
-Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.
-```
+```Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.```
 
 - Utilização do computador permitida durante execução
 - Emojis não são renderizados corretamente
@@ -44,9 +40,7 @@ Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.
 - Mais estável que o primeiro script
 
 3️. mensagens_personalizado_nome.py <br/>
-```
-Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o computador.
-```
+```Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o computador.```
 
 - Permite personalização da mensagem por nome
 - Possível utilizar o computador durante envio
