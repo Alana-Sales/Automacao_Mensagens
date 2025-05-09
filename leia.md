@@ -51,7 +51,6 @@ Telefone,Nome
 1. Clone o repositório:
 
 ```
-bash
 git clone https://github.com/seu-usuario/automacoes-whatsapp.git
 cd automacoes-whatsapp
 ```
@@ -59,7 +58,6 @@ cd automacoes-whatsapp
 2. Instale os requisitos:
 
 ```
-bash
 pip install -r requirements.txt
 ```
 
@@ -67,7 +65,10 @@ pip install -r requirements.txt
 4. Execute o script desejado:
 
 ```
-bash
 python mensageiro_personalizado_nome.py
 ```
 5. Escaneie o QR code no navegador com o seu WhatsApp.
+
+## Observações
+- Certifique-se de manter o WhatsApp Web aberto e logado durante toda a execução.
+- O WhatsApp pode bloquear envios em massa se detectar comportamento suspeito.
