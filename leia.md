@@ -70,5 +70,6 @@ python mensageiro_personalizado_nome.py
 5. Escaneie o QR code no navegador com o seu WhatsApp.
 
 ## Observações <br/>
+
 - Certifique-se de manter o WhatsApp Web aberto e logado durante toda a execução.
 - O WhatsApp pode bloquear envios em massa se detectar comportamento suspeito.
