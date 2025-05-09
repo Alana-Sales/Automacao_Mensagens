@@ -23,7 +23,7 @@ Telefone,Nome
 ```
 
 ## Scripts Disponíveis
-1️. mensageiro_emojis_pyautogui.py
+1️. mensageiro_emojis_pyautogui.py <br/>
 ```Envia mensagens com emojis usando pywhatkit e cliques automatizados com pyautogui.```
 
 - Suporta emojis
@@ -31,7 +31,7 @@ Telefone,Nome
 - Requer ajuste das coordenadas do mouse no pyautogui.click()
 - Recomendado apenas para pequenos envios
 
-2️. mensageiro_selenium_simples.py
+2️. mensageiro_selenium_simples.py <br/>
 Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.
 
 - Utilização do computador permitida durante execução
@@ -39,7 +39,7 @@ Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.
 - Faz até 3 tentativas por número
 - Mais estável que o primeiro script
 
-3️. mensageiro_personalizado_nome.py
+3️. mensageiro_personalizado_nome.py <br/>
 Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o computador.
 
 - Permite personalização da mensagem por nome
@@ -50,9 +50,7 @@ Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o co
 ##  Como Usar
 1. Clone o repositório:
 
-bash
-Copiar
-Editar
+```bash
 git clone https://github.com/seu-usuario/automacoes-whatsapp.git
 cd automacoes-whatsapp
 Instale os requisitos:
