@@ -32,7 +32,7 @@ Telefone,Nome
 - Recomendado apenas para pequenos envios
 
 2️. mensageiro_selenium_simples.py <br/>
-Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.
+```Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.```
 
 - Utilização do computador permitida durante execução
 - Emojis não são renderizados corretamente
@@ -40,7 +40,7 @@ Usa Selenium para envio sem bloquear o PC, mas não suporta emojis.
 - Mais estável que o primeiro script
 
 3️. mensageiro_personalizado_nome.py <br/>
-Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o computador.
+```Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o computador.```
 
 - Permite personalização da mensagem por nome
 - Possível utilizar o computador durante envio
@@ -52,19 +52,16 @@ Envia mensagens personalizadas com nome, com estrutura robusta e sem travar o co
 
 ```bash
 git clone https://github.com/seu-usuario/automacoes-whatsapp.git
-cd automacoes-whatsapp
-Instale os requisitos:
+cd automacoes-whatsapp```
 
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Adicione os números no numeros.csv.
+2. Instale os requisitos:
 
-Execute o script desejado:
+```bash
+pip install -r requirements.txt```
 
-bash
-Copiar
-Editar
-python mensageiro_personalizado_nome.py
-Escaneie o QR code no navegador com o seu WhatsApp.
+3. Adicione os números no numeros.csv.
+4. Execute o script desejado:
+
+```bash
+python mensageiro_personalizado_nome.py```
+5. Escaneie o QR code no navegador com o seu WhatsApp.
