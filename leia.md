@@ -24,7 +24,7 @@ Telefone,Nome
 
 ## Scripts Disponíveis
 1️. mensageiro_emojis_pyautogui.py
-Envia mensagens com emojis usando pywhatkit e cliques automatizados com pyautogui.
+```Envia mensagens com emojis usando pywhatkit e cliques automatizados com pyautogui.```
 
 - Suporta emojis
 - Congela o computador durante a execução
